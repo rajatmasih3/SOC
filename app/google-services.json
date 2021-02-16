@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "992652205402",
+    "project_id": "socapp-af1b4",
+    "storage_bucket": "socapp-af1b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992652205402:android:a7f4b2afe26439338ba763",
+        "android_client_info": {
+          "package_name": "com.aashvi.soc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992652205402-7ka55csv0lv5sv4ku1p5bsqpeom921gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aashvi.soc",
+            "certificate_hash": "d9ea1503f3ac683e7047b2ce59f8da7f40491e70"
+          }
+        },
+        {
+          "client_id": "992652205402-l11q0c0mprpuumfgpi6bfev542msrhim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC42nNQ_1mglTmeNdBwRv7AJloSL3QM718"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992652205402-l11q0c0mprpuumfgpi6bfev542msrhim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
